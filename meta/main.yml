@@ -1,0 +1,8 @@
+galaxy_info:
+  author: David Cole
+  description: Installs and configures supervisor.
+  license: BSD
+  min_ansible_version: 2.0
+  galaxy_tags: []
+
+dependencies: []
